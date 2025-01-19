@@ -1,0 +1,9 @@
+
+Sitemap: https://docs-go.vercel.app/sitemap.xml
+
+User-agent: *
+
+
+User-Agent: *
+Allow: /
+
